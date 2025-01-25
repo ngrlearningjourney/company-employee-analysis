@@ -50,18 +50,18 @@ I studied the relationships between variables using:
 ## 💡 Insights
 
 ### Employee Retention and Attrition by Education Level 🎓  
-- Bachelor's degree holders constitute the majority of both retained (1,232) and departed (739) employees, indicating they form the largest group in the workforce.  
-- Master's degree holders show a moderate retention rate (328 stayed, 309 left), suggesting potential challenges in retaining this group.  
-- Ph.D. holders, while the smallest group, exhibit the highest retention rate relative to attrition (116 stayed, 40 left).  
+- Most employees have a Bachelor's degree, including 1,232 who stayed and 739 who left, making this the largest group in the workforce.  
+- Master's degree holders have a balanced retention rate (328 stayed, 309 left), showing some challenges in keeping this group.  
+- Ph.D. holders are the smallest group but have the highest retention rate (116 stayed, 40 left).    
 
 ### Experience Analysis ⏳  
 - Employees with Bachelor's degrees have the longest tenure, with a maximum of 7 years of experience, followed by Master's and Ph.D. holders (5 years each).  
-- A significant number of employees have no domain experience, particularly among Bachelor's degree holders (239), which might indicate entry-level hiring or mismatched roles.  
+- Many employees, especially Bachelor's degree holders (239), have no prior experience, likely due to entry-level hiring or mismatched roles.  
 
 ### Attrition and Experience 🚪  
 - Employees who left the company had between 0 and 7 years of experience, meaning attrition occurs across the entire range of tenure for all education levels.  
 - For employees with over 3 years of experience, Bachelor's degree holders form the majority of those leaving (208), followed by Master's degree holders (113) and Ph.D. holders (11).  
-- This suggests that while attrition isn't confined to a specific period, employees with substantial experience may leave due to unaddressed career aspirations or better opportunities elsewhere.  
+- This suggests that experienced employees may leave due to unmet career goals or better opportunities elsewhere.   
 
 ### Bench Analysis 🪑  
 - Bachelor's degree holders have the highest number of benched employees (286), potentially due to over-hiring or misallocation of roles.  
