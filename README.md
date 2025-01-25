@@ -22,7 +22,7 @@ The dataset includes **9 columns** filled with information on demographics, educ
 ## 🔍 Steps I Took  
 
 ### 1️⃣ Data Gathering  
-- **Source**: Kaggle 🏆  
+- **Source**: [Kaggle🏆](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset)
 - **Format**: CSV 📂  
 - **Contents**: Employee age, education, joining year, work history, and more.  
 
