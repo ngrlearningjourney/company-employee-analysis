@@ -49,6 +49,7 @@ I studied the relationships between variables using:
 ## 🤖 Machine Learning Techniques  
 
 In addition to analysis, I ventured into predictive analytics by building classification machine learning models to predict employee attrition. Using K-Nearest Neighbors (KNN) and Logistic Regression, I achieved accuracy scores of **75%** and **72%**, respectively. These models highlight the potential of data-driven decision-making in addressing workforce challenges.  
+
 ---
 
 # Insights and Recommendations
