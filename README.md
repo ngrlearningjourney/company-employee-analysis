@@ -43,7 +43,9 @@ Using **line charts**, **bar charts**, and **tables**, I explored:
 I studied the relationships between variables using:  
 - **Point Biserial Correlation**: Nominal vs. numerical 🔢  
 - **Chi-Square Test and Cramér's V**: Nominal vs. nominal 🔗  
-- **Kendall Tau**: Nominal vs. ordinal ⬆️⬇️  
+- **Kendall Tau**: Nominal vs. ordinal ⬆️⬇️
+
+- **Further Details**: Check out the full analysis in my [Jupyter Notebook](https://github.com/ngrlearningjourney/company-employee-analysis/blob/main/employee_data_analysis-2.ipynb).
 
 ---
 ## 🤖 Machine Learning Techniques  
