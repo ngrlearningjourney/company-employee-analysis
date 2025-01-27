@@ -6,7 +6,7 @@ Hi there! 👋 Welcome to my portfolio, where I showcase how I’ve used data an
 
 ## 📚 Overview  
 
-This project is all about analyzing employee data 🧑‍💻 sourced from Kaggle to answer key questions like:  
+This project is all about analyzing employee data 🧑‍💻 sourced from [Kaggle](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset) to answer key questions like:  
 1. How many employees of each education degree have left the company, and how many have stayed?
 2. How many employees were recruited each year?
 3. What is the average age of employees for each education degree?
