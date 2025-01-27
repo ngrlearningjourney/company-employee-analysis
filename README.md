@@ -46,6 +46,21 @@ I studied the relationships between variables using:
 - **Point Biserial Correlation**: Nominal vs. numerical 🔢  
 - **Chi-Square Test and Cramér's V**: Nominal vs. nominal 🔗  
 - **Kendall Tau**: Nominal vs. ordinal ⬆️⬇️
+---
+
+## 📊 Recap of Correlation Summary with LeaveOrNot Column
+
+- **Age**: Weak positive correlation (0.114943) — Older employees are slightly more likely to leave.  
+- **ExperienceInCurrentDomain**: Very weak positive correlation (0.021181) — Little to no impact on leaving.  
+- **JoiningYear**: Weak negative correlation (-0.150650) — Employees who joined earlier are marginally less likely to leave.  
+
+### Categorical Variables:
+- **City and Gender**: Statistically significant relationships with LeaveOrNot (*p-value* < 0.05) but weak to moderate associations (*Cramér's V* < 0.3).  
+- **EverBenched**: No significant relationship (*p-value* > 0.05) and negligible association (*Cramér's V* = 0.036).  
+
+### Other Factors:
+- **Education**: Weak negative correlation — Higher education levels slightly reduce the likelihood of leaving.  
+- **PaymentTier**: Weak positive correlation — Higher payment tiers are slightly associated with an increased likelihood of leaving.  
 
 ---
 ## 🤖 Machine Learning Techniques  
@@ -99,22 +114,6 @@ In addition to analysis, I ventured into predictive analytics by building classi
 ### 5️⃣ Payment Tier Utilization Strategy 💰  
 - Investigate the reasons for higher benching in **Payment Tier 3** and focus on aligning hiring with actual workforce needs.  
 - Create pathways for employees in **lower tiers** to advance through internal training and certification programs, reducing benching rates.  
-
----
-
-## 📊 Recap of Correlation Summary with LeaveOrNot Column
-
-- **Age**: Weak positive correlation (0.114943) — Older employees are slightly more likely to leave.  
-- **ExperienceInCurrentDomain**: Very weak positive correlation (0.021181) — Little to no impact on leaving.  
-- **JoiningYear**: Weak negative correlation (-0.150650) — Employees who joined earlier are marginally less likely to leave.  
-
-### Categorical Variables:
-- **City and Gender**: Statistically significant relationships with LeaveOrNot (*p-value* < 0.05) but weak to moderate associations (*Cramér's V* < 0.3).  
-- **EverBenched**: No significant relationship (*p-value* > 0.05) and negligible association (*Cramér's V* = 0.036).  
-
-### Other Factors:
-- **Education**: Weak negative correlation — Higher education levels slightly reduce the likelihood of leaving.  
-- **PaymentTier**: Weak positive correlation — Higher payment tiers are slightly associated with an increased likelihood of leaving.  
 
 ---
 
